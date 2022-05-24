@@ -1,0 +1,7 @@
+*.o
+*.exe
+*.gpi
+*.bak
+*.err
+*.out
+/dev_gpc

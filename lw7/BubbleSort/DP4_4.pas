@@ -1,0 +1,7 @@
+RESET(F1);
+WHILE NOT EOLN(F1)
+DO
+  BEGIN
+    READ(F1, Ch);
+    WRITE(OUTPUT, Ch)
+  END

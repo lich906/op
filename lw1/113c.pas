@@ -1,0 +1,4 @@
+PROGRAM Flowers(INPUT, OUTPUT);
+BEGIN
+  WRITELN('Rose, Violets')
+END.

@@ -1,0 +1,10 @@
+{Проверка окна для 'air'}
+BEGIN
+  IF W2 = 'a'
+  THEN
+    IF W3 = 'i'
+    THEN
+      IF W4 = 'r'
+      THEN
+        Looking := 'A'
+END;
